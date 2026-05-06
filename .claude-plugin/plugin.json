@@ -1,10 +1,9 @@
 {
   "name": "chat-topic-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto-generates chat topic via background `claude -p` and shows macOS notifications labelled with that topic",
   "author": { "name": "Illia Rybas" },
   "repository": "https://github.com/kor1b/claude-chat-topic-notifier",
   "license": "MIT",
-  "keywords": ["notifications", "macos", "topic", "chat"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["notifications", "macos", "topic", "chat"]
 }
